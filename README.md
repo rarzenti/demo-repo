@@ -4,5 +4,6 @@ Some description!
 
 ## Subheader
 
-Watch tutorial on YouTube. YO
+Watch tutorial on YouTube.
+Watching tutorial again on Youtube because I took too long between sessions.
 
