@@ -7,6 +7,6 @@ Some description!
 Watch tutorial on YouTube.
 Watching tutorial again on Youtube because I took too long between sessions.
 
-##Local Development
+## Local Development
 
 1. Open index.html in your browser
